@@ -1,0 +1,17 @@
+// all weapon types: CLOSE, ERROR, RESTRICT, MINE
+// close reduces hp of hit enemy by 1, error could have a ricochet effect, restrict will freeze the enemy for a short period of time while reducing hp slowly, mine will exist stationarily for a few seconds and then explode with a huge area of effect
+// close will be the default weapon and will be infinite and free, but other weapons will cost points, different enemies drop various amounts of points when killed and these points can be spent on projectiles, different projectiles could be selcted with number keys, the player has a score and a highscore, naturally the score will reduce as points are spent but the highscore will stay the same and be saved to local storage to be kept
+
+( ͡° ͜ʖ ͡°)
+(´ᨎ`)
+
+(◉▾◉)
+( ͡⎚ ͜つ ͡⎚)
+
+
+five types of enemies for each level:
+minion intro at wave 1
+knight intro at wave 2
+big guy intro at wave 3
+summoner intro at wave 4
+boss intro at wave 5
